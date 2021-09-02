@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\HP\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\ASUS\Desktop\fuck - Copy (7)\CalculatorApp\obj\Debug\CalculatorApp.pdb
